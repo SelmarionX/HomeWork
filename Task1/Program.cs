@@ -5,7 +5,7 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-Console.Clear(); // очищает терминал во время выполнения задачи
+Console.Clear();
 Console.WriteLine("Введите первое число ");
 int a1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе число ");
